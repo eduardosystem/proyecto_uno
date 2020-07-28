@@ -1,0 +1,11 @@
+test
+pods
+pods.txt
+
+
+
+Primero hacmos un 
+git status
+creamos una carpeta llamada .gitignore: usado para ignorar los archivos
+git add <archivo.xx>
+git commit -m "Cofigo ingresado de validacion git"
