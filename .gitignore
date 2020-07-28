@@ -9,3 +9,6 @@ git status
 creamos una carpeta llamada .gitignore: usado para ignorar los archivos
 git add <archivo.xx>
 git commit -m "Cofigo ingresado de validacion git"
+git log: para ver el historial de cambios
+y si no queremos el cambio hacemos
+git 
